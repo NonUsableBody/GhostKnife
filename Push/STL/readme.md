@@ -9,4 +9,4 @@ Push v3: Very robust, but also the least "sharp". Designed to provide the maximu
 
 Push v4: Replaces Push v2. If cast, you should be able to put a usable edge on it. In testing of the Composite version, tip breakage was sometimes an issue.
 
-Push V5. Meant for casting. Not robust enough to be workable in plastic composites. Parts other than blade may be printed.
+Push V5. Meant for casting. Not robust enough to be workable in plastic composites. Parts other than blade may be printed. A1 variant removes need for a spacer. Not tested yet.
